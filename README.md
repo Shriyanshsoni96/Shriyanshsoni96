@@ -74,5 +74,5 @@ I aim to build systems that are not only functional — but future-ready.
 
 📫 Connect
 
-LinkedIn: (Add link)
+LinkedIn: https://www.linkedin.com/in/shriyansh-soni-44a736284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Email: sonishriyansh9977@gmail.com
