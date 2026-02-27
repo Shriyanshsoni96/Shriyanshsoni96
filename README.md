@@ -23,11 +23,6 @@ Real-time communication model
 Vision to evolve into a physical assistive solution
 Technology should empower communication.
 
-🍽️ MoodMeals — AI Recommendation System
-Mood-based intelligent suggestions
-Personalized filtering logic
-AI-integrated user experience
-
 🏫 ERP System — Hackathon Project
 Built as Team Leader during Hackathon at IET DAVV, Indore.
 Role-based management modules
