@@ -1,6 +1,6 @@
 Shriyansh Soni
 
-Full-Stack MERN Developer • Generative AI Explorer • Team Leader
+Full-Stack MERN Developer • Generative AI Explorer • Team Leader 
 
 I build structured, scalable, and intelligent digital systems.
 My focus lies at the intersection of strong frontend architecture, solid algorithmic thinking, and AI-driven applications.
@@ -41,7 +41,7 @@ Full Stack (Learning & Building)
 MERN Stack (MongoDB • Express • React • Node.js)
 
 Programming Languages
-C++ (DSA) • Java • JavaScript
+C++ (DSA)  • JavaScript
 
 Tools
 Git • GitHub • VS Code • Figma 
