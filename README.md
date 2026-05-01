@@ -6,6 +6,7 @@ I build structured, scalable, and intelligent digital systems.
 My focus lies at the intersection of strong frontend architecture, solid algorithmic thinking, and AI-driven applications.
 
 Currently deepening my expertise in Generative AI, strengthening core problem-solving through Data Structures & Algorithms in C++, and expanding full-stack capability with the MERN stack.
+
 🚀 Featured Work
 🛒 Pitara — The Printing Hub
 Customizable e-commerce platform built with product-level thinking.
