@@ -47,7 +47,6 @@ Tools
 Git • GitHub • VS Code • Figma 
 
 🔬 Current Focus
-
 Generative AI applications
 AI + Full Stack integration
 Advanced MERN architecture
